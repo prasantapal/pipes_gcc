@@ -11,6 +11,8 @@ This is a header-only library, implemented in C++14.
 
 The library is under development and subject to change. Contributions are welcome. You can also [log an issue](https://github.com/joboccara/pipes/issues) if you have a wish for enhancement or if you spot a bug.
 
+With GCC compatible flag updates in "pipes/helpers/optional.hpp" you can now compile with GCC compilers.
+
 # Contents
 
 * [A First Example](#a-first-example)
